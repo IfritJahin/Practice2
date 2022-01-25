@@ -1,0 +1,13 @@
+div{
+    font-family: sans-serif;
+       width: 500px;
+    margin: auto;
+ }
+ body{
+     background-color: #6F8FAF;
+ }
+ blockquote{
+    border:  1px solid black;
+    text-align: center;
+    margin-left: 0;
+ }

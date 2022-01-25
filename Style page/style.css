@@ -1,0 +1,18 @@
+ a{
+  color: hotpink; text-decoration: none; 
+}
+h1{
+    font-family: arial, helvetica, sans-serif; color: red;
+}
+div{
+    
+    background-color: skyblue;
+    width: 500px;
+    margin: auto;
+    text-align: center; }
+#eee li:nth-child(3){
+    color: orange;
+}
+#sect li:nth-child(3){
+    color: green;
+}

@@ -1,0 +1,14 @@
+h1{
+	background:url(../img/logo.jfif) no-repeat; 
+	text-indent: -9999;
+	width: 200px;
+	height: 200px;
+
+}
+h2{
+	font-family: 'Dancing Script', cursive;
+	font-size: 120px;
+	text-transform: lowercase;
+	color: grey;
+	text-shadow: 5px 10px 10px cadetblue;
+}

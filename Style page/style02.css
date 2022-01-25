@@ -1,0 +1,40 @@
+.wrap{
+	min-width: 600px;
+	width: 80%;
+	margin: auto;
+	background: lightcoral;
+	font-family: sans-serif;
+	overflow: hidden;
+}
+.content, aside{
+	height: 600px;
+}
+.content{
+	background: steelblue;
+	float: left;
+	width: 70%;
+}
+aside {
+	background: cadetblue; 
+	float: left;
+	width:  30%;
+}
+aside ul{
+	padding-left: 18px;
+}
+footer{
+	clear: both;
+}
+li{
+	display: inline;
+	padding-left: 10px;
+}
+ul a{
+	text-decoration: none;
+	color: black;
+}
+ul a:hover{
+	text-decoration: underline;
+	color: blue;
+
+}
